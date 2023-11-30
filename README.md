@@ -29,11 +29,6 @@ Machine Learning Model to get predictive analytics for specific players and team
 ![image](https://github.com/coryselzer/NBA_Scouting_Analysis/assets/135565997/bc36466d-391f-4566-8ca5-5fd58975a70f)
 
 
-
-## Results and Conclusion
-
-
-
-Tableau Dashboard 
+## Tableau Dashboard 
 
 ![Screenshot 2023-11-29 at 9 07 15 PM](https://github.com/coryselzer/NBA_Scouting_Analysis/assets/134936973/4e1ed693-b827-4cd2-ba0a-637c60f34fa6)
