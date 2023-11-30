@@ -18,9 +18,11 @@ Once datasets were selected, extensive data cleaning was necessary to include on
 
 ## Technologies Used
 
-Jupyter notebook to create our Machine Learning Model and create our dataframes
-Tableau to create our visualizations
-Machine Learning Model to get predictive analytics for specific players and teams
+Jupyter notebook to create our Machine Learning Model and create our dataframes.
+
+Tableau to create our visualizations.
+
+Machine Learning Model to get predictive analytics for specific players and teams.
 
 ## Machine Learning Model
 
