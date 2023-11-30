@@ -8,6 +8,7 @@ Our goal is to craft comprehensive scouting reports that empower our players wit
 ## Data Sources
 
 We used NBA_API to gather our roster and team data that we used to create our visualizations in tableau and in our Machine Learning Model.
+Code and data can be found in files within our repository's NBA Data file. 
 
 
 ## Data Collection
