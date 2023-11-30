@@ -8,7 +8,7 @@ Our goal is to craft comprehensive scouting reports that empower our players wit
 ## Data Sources
 
 We used NBA_API to gather our roster and team data that we used to create our visualizations in tableau and in our Machine Learning Model.
-Code and data can be found in files within our repository's NBA Data file. 
+Code and data can be found in files within our repository's NBA API/Data folder. 
 
 
 ## Data Collection
@@ -21,6 +21,11 @@ Once datasets were selected, extensive data cleaning was necessary to include on
 Jupyter notebook to create our Machine Learning Model and create our dataframes
 Tableau to create our visualizations
 Machine Learning Model to get predictive analytics for specific players and teams
+
+## Machine Learning Model
+
+![image](https://github.com/coryselzer/NBA_Scouting_Analysis/assets/135565997/bc36466d-391f-4566-8ca5-5fd58975a70f)
+
 
 
 ## Results and Conclusion
