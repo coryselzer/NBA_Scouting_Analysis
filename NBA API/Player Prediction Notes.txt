@@ -1,0 +1,39 @@
+NBA Player Point Prediction
+
+Goal: Predict how many points Maxey will score next game vs Hawks
+
+DF1: Player_Name | Game_ID | Home | Pts | Vs_Opp
+DF2: Team_Name | Game_ID | Pts_Allowed | Pts_Allowed_vs_Players_Position | Home | Vs_Players_Team
+
+Sample Data:
+	- Player_Name: "Tyrese Maxey"
+	- Game_ID: 220304
+	- Home: 0	# 0 for home, 1 for away
+	- Pts: 23
+	- Vs_Opp: 1	# 0 for yes (vs Hawks or team in question), 1 for no
+
+	- Team_Name: "Atl Hawks"
+	- Pts_Allowed: 113
+	- Pts_Allowed_vs_Players_Position: 32 	#32 points to opposing PG's that game
+	- Home: 1	
+	- Vs_Players_Team: 0	# 0 for yes (vs Sixers or players team in question), 1 for other teams
+
+Training Set = points
+Feature Set = everything else
+
+Notes:
+	- two dataframes won't work
+	- merge into one; maybe like:
+		- Player_Name | Game_ID | Home | Pts | Team_Name | Vs_Opp | Pts_Allowed | Pts_Allowed_vs_Players_Position
+		- Sample Data:
+			- Player_Name: "Tyrese Maxey"
+			- Game_ID: 220304
+			- Home: 0			# home game
+			- Pts: 23			# scored by maxey
+			- Team_Name: "Bos Celtics"
+			- Vs_Opp: 1			# no, not vs hawks
+			- Pts_Allowed: 121
+			- Pts_Allowed_vs_Players_Position: 28
+	- add a higher weight on games maxey plays the team in question (i.e. vs Hawks = 0 other = 1)
+
+https://github.com/swar/nba_api/tree/master

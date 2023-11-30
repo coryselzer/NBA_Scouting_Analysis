@@ -1,0 +1,19 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED
+1610612755,2023,00,Tyrese Maxey,Tyrese,tyrese-maxey,0,G,6-2,200,"NOV 04, 2000",23.0,3,Kentucky,1630178,#21 Pick in 2020 Draft
+1610612755,2023,00,KJ Martin,KJ,kj-martin,1,F,6-6,215,"JAN 06, 2001",22.0,3,IMG Academy (FL),1630231,Traded from LAC on 11/01/23
+1610612755,2023,00,Marcus Morris Sr.,Marcus,marcus-morris-sr,5,F,6-8,218,"SEP 02, 1989",34.0,12,Kansas,202694,Traded from LAC on 11/01/23
+1610612755,2023,00,Mo Bamba,Mo,mo-bamba,7,C,7-0,231,"MAY 12, 1998",25.0,5,Texas,1628964,Signed on 07/09/23
+1610612755,2023,00,De'Anthony Melton,De'Anthony,deanthony-melton,8,G,6-3,200,"MAY 28, 1998",25.0,5,Southern California,1629001,Traded from MEM on 06/24/22
+1610612755,2023,00,Kelly Oubre Jr.,Kelly,kelly-oubre-jr,9,F-G,6-7,203,"DEC 09, 1995",27.0,8,Kansas,1626162,Signed on 09/26/23
+1610612755,2023,00,Jaden Springer,Jaden,jaden-springer,11,G,6-4,202,"SEP 25, 2002",21.0,2,Tennessee,1630531,#28 Pick in 2021 Draft
+1610612755,2023,00,Tobias Harris,Tobias,tobias-harris,12,F,6-8,226,"JUL 15, 1992",31.0,12,Tennessee,202699,Traded from LAC on 02/06/19
+1610612755,2023,00,Ricky Council IV,Ricky,ricky-council-iv,16,G,6-6,207,"AUG 03, 2001",22.0,R,Arkansas,1641741,Signed on 07/01/23
+1610612755,2023,00,Joel Embiid,Joel,joel-embiid,21,C-F,7-0,280,"MAR 16, 1994",29.0,7,Kansas,203954,#3 Pick in 2014 Draft
+1610612755,2023,00,Patrick Beverley,Patrick,patrick-beverley,22,G,6-2,180,"JUL 12, 1988",35.0,11,Arkansas,201976,Signed on 07/09/23
+1610612755,2023,00,Terquavion Smith,Terquavion,terquavion-smith,23,G,6-4,160,"DEC 31, 2002",20.0,R,North Carolina State,1631173,Signed on 07/01/23
+1610612755,2023,00,Danuel House Jr.,Danuel,danuel-house-jr,25,F-G,6-6,220,"JUN 07, 1993",30.0,7,Texas A&M,1627863,Signed on 07/06/22
+1610612755,2023,00,Furkan Korkmaz,Furkan,furkan-korkmaz,30,G-F,6-7,202,"JUL 24, 1997",26.0,6,Anadolu Efes,1627788,#26 Pick in 2016 Draft
+1610612755,2023,00,Robert Covington,Robert,robert-covington,33,F,6-7,209,"DEC 14, 1990",32.0,10,Tennessee State,203496,Traded from LAC on 11/01/23
+1610612755,2023,00,Javonte Smart,Javonte,javonte-smart,39,G,6-4,205,"JUN 03, 1999",24.0,1,Louisiana State,1630606,Signed on 08/13/23
+1610612755,2023,00,Nicolas Batum,Nicolas,nicolas-batum,40,G-F,6-8,230,"DEC 14, 1988",34.0,15,Le Mans,201587,Traded from LAC on 11/01/23
+1610612755,2023,00,Paul Reed,Paul,paul-reed,44,F,6-9,210,"JUN 14, 1999",24.0,3,DePaul,1630194,#58 Pick in 2020 Draft
